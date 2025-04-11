@@ -12,7 +12,7 @@ const Connect = () => {
         <div className="flex flex-col gap-4 items-center">
           <CurrentTimeIST /> 
           <a
-            href="https://www.linkedin.com/in/jagadish-c-k-93b729187/"
+            href="www.linkedin.com/in/prajwal-g-b-278a24/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-amber-50 hover:text-amber-100 text-center bg-blue-500 rounded-3xl cursor-pointer p-2 w-36"

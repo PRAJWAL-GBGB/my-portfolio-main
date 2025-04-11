@@ -5,9 +5,9 @@ const Education = () => {
     {
       degree: "Bachelor of Engineering",
       branch: "Information Science",
-      duration: "2022 - 2025",
+      duration: "2018 - 2025",
       college: "Siddaganga Institute Of Technology",
-      CGPA: "8.15 CGPA",
+      CGPA: "7.2 CGPA",
     },
   ];
 

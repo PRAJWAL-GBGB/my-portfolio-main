@@ -39,7 +39,7 @@ const Footer = () => {
         <div className="px-4 py-4 bg-gray-700 md:flex md:items-center md:justify-between">
           <div className="w-full md:w-1/3 text-sm text-gray-400 text-center md:text-left ml-[-55px]">
             Copyright © {new Date().getFullYear()} — All rights reserved by
-            Mahesh R
+            Prajwal G B
           </div>
 
           <div className="w-full md:w-1/3 flex justify-center gap-6 text-sm underline underline-offset-4 ml-20">

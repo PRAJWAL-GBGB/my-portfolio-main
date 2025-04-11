@@ -1,14 +1,13 @@
 import { BiLogoInstagramAlt } from "react-icons/bi";
 import { VscGithubInverted } from "react-icons/vsc";
 import { FaXTwitter, FaLinkedin } from "react-icons/fa6";
-import { SiLeetcode } from "react-icons/si";
 
 const Hero = () => {
   const socialLinks = [
     {
       title: "GitHub",
       tag: <VscGithubInverted size={20} />,
-      url: "https://github.com/jagadish018",
+      url: "https://github.com/PRAJWAL-GBGB",
     },
     {
       title: "Instagram",
@@ -23,27 +22,23 @@ const Hero = () => {
     {
       title: "LinkedIn",
       tag: <FaLinkedin size={20} />,
-      url: "https://www.linkedin.com/in/jagadish-c-k-93b729187/",
+      url: "www.linkedin.com/in/prajwal-g-b-278a24/",
     },
-    {
-      title: "Leetcode",
-      tag: <SiLeetcode size={20} />,
-      url: "https://leetcode.com/u/jagadishck018/",
-    },
+    
   ];
 
   return (
     <div className="w-full px-4 flex flex-col md:flex-row items-center md:items-start justify-center gap-4 max-w-screen-md mx-auto  ">
       <img
-        src="/profile.JPG"
-        alt="Jagadish"
+        src="/profil.jpg"
+        alt="Prajwal G B"
         className="rounded-full w-38 h-38 object-cover border p-1"
       />
 
       <div className="flex flex-col items-center md:items-start w-full gap-4 ">
         
         <h1 className="text-l md:text-3xl font-semibold text-amber-50 text-center md:text-left">
-          Jagadish C K(Fullstack Developer)
+        Prajwal G B(Fullstack Developer)
         </h1>
 
         <div className="flex flex-wrap gap-2 justify-center md:justify-start">

@@ -8,7 +8,7 @@ const Footer = () => {
     {
       
       tag: <VscGithubInverted size={20} />,
-      url: "https://github.com/jagadish018",
+      url: "https://github.com/PRAJWAL-GBGB",
     },
     {
       
@@ -17,18 +17,8 @@ const Footer = () => {
     },
     {
       
-      tag: <FaXTwitter size={16} />,
-      url: "https://x.com/JagadishCK4056",
-    },
-    {
-      
       tag: <FaLinkedin size={20} />,
-      url: "https://www.linkedin.com/in/jagadish-c-k-93b729187/",
-    },
-    {
-      
-      tag: <SiLeetcode size={20} />,
-      url: "https://leetcode.com/u/jagadishck018/",
+      url: "www.linkedin.com/in/prajwal-g-b-278a24",
     },
   ];
   return (
@@ -39,7 +29,7 @@ const Footer = () => {
           <span className="text-sm text-white  sm:text-center">
             Copyright © 2025{" "}
             <a href="Deep learning" className="hover:underline">
-              All rights reserved by Jagadish C K
+              All rights reserved by Prajwal G B
             </a>
            
           </span>

@@ -5,30 +5,11 @@ const Projects = () => {
     {
       emoji: "🌐",
       title: "Hackernews-Server",
-      projectUrl: "https://github.com/jagadish018/hackernews-server",
+      projectUrl: "https://github.com/PRAJWAL-GBGB/hackernews-server-main.git",
       description: "Developed Hackernews server clone",
     },
-    {
-      emoji: "🐞",
-      title: "Fileless Malware Detection",
-      projectUrl: "https://github.com/jswaroop123/FileLess_Malware",
-      description:
-        "Developed ML model using Random Forest. It detects Fileless Malware",
-    },
-    {
-      emoji: "🎗️",
-      title: "Colon Cancer Prediction",
-      projectUrl: "https://github.com/jagadish018/colon_cancer_prediction",
-      description:
-        "Developed Deep learning model using ResNet50 + Streamlit . It detects Colon Cancer",
-    },
-    {
-      emoji: "💻⚙️",
-      title: "CPU Schedule Visualizer",
-      projectUrl:
-        "https://github.com/jagadish018/CPU-Scheduler-Algo-Visualizer",
-      description: "Developed Algorithm visualizer using React + TailwindCSS",
-    },
+    
+  
   ];
 
   return (
